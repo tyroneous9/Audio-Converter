@@ -67,6 +67,13 @@ def find_ffmpeg():
     found = shutil.which("ffmpeg")
     if found:
         return str(Path(found).resolve().parent)
+    try:
+        import static_ffmpeg
+
+        ffmpeg_path, _ = static_ffmpeg.run.get_or_fetch_platform_executables_else_raise()
+        return str(Path(ffmpeg_path).parent)
+    except Exception:
+        pass
     return None
 
 

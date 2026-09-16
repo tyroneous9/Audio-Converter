@@ -1,3 +1,71 @@
 
 ===== yt-dlp not found — 2026-08-26 23:57:41 =====
 Could not find 'yt-dlp' on PATH or next to this app. Install it and restart.
+
+===== yt-dlp self-update — 2026-09-16 11:58:07 =====
+Latest version: stable@2026.08.19 from yt-dlp/yt-dlp
+yt-dlp is up to date (stable@2026.08.19 from yt-dlp/yt-dlp)
+
+===== Run started (5 link(s)) — 2026-09-16 11:58:23 =====
+Extracting cookies from firefox
+Extracted 1032 cookies from firefox
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7Cq175HNWu0
+[youtube] 7Cq175HNWu0: Downloading webpage
+[youtube] 7Cq175HNWu0: Downloading web embedded client config
+[youtube] 7Cq175HNWu0: Downloading player 8c3fda2d-main
+[youtube] 7Cq175HNWu0: Downloading web embedded player API JSON
+[youtube] 7Cq175HNWu0: Downloading tv downgraded player API JSON
+WARNING: [youtube] 7Cq175HNWu0: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] 7Cq175HNWu0: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+ERROR: [youtube] 7Cq175HNWu0: The page needs to be reloaded.
+[youtube] Extracting URL: https://www.youtube.com/watch?v=RfEJE5aNSCc
+[youtube] RfEJE5aNSCc: Downloading webpage
+[youtube] RfEJE5aNSCc: Downloading web embedded client config
+[youtube] RfEJE5aNSCc: Downloading web embedded player API JSON
+[youtube] RfEJE5aNSCc: Downloading tv downgraded player API JSON
+WARNING: [youtube] RfEJE5aNSCc: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+ERROR: [youtube] RfEJE5aNSCc: The page needs to be reloaded.
+[youtube] Extracting URL: https://www.youtube.com/watch?v=l-vSSYEuO88
+[youtube] l-vSSYEuO88: Downloading webpage
+[youtube] l-vSSYEuO88: Downloading web embedded client config
+[youtube] l-vSSYEuO88: Downloading web embedded player API JSON
+[youtube] l-vSSYEuO88: Downloading tv downgraded player API JSON
+WARNING: [youtube] l-vSSYEuO88: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+ERROR: [youtube] l-vSSYEuO88: The page needs to be reloaded.
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yn2H0PBi0kA
+[youtube] yn2H0PBi0kA: Downloading webpage
+[youtube] yn2H0PBi0kA: Downloading web embedded client config
+[youtube] yn2H0PBi0kA: Downloading web embedded player API JSON
+[youtube] yn2H0PBi0kA: Downloading tv downgraded player API JSON
+WARNING: [youtube] yn2H0PBi0kA: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] yn2H0PBi0kA: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+ERROR: [youtube] yn2H0PBi0kA: The page needs to be reloaded.
+[youtube] Extracting URL: https://www.youtube.com/watch?v=qsD-nh0BJsQ
+[youtube] qsD-nh0BJsQ: Downloading webpage
+[youtube] qsD-nh0BJsQ: Downloading web embedded client config
+[youtube] qsD-nh0BJsQ: Downloading web embedded player API JSON
+[youtube] qsD-nh0BJsQ: Downloading tv downgraded player API JSON
+WARNING: [youtube] qsD-nh0BJsQ: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] qsD-nh0BJsQ: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+ERROR: [youtube] qsD-nh0BJsQ: The page needs to be reloaded.
+
+===== Run finished (exit code 1) — 2026-09-16 11:58:37 =====
+
+===== yt-dlp self-update — 2026-09-16 11:59:27 =====
+Latest version: stable@2026.08.19 from yt-dlp/yt-dlp
+yt-dlp is up to date (stable@2026.08.19 from yt-dlp/yt-dlp)
+
+===== Run started (5 link(s)) — 2026-09-16 11:59:37 =====
+Extracting cookies from firefox
+Extracted 1032 cookies from firefox
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7Cq175HNWu0
+[youtube] 7Cq175HNWu0: Downloading webpage
+[youtube] 7Cq175HNWu0: Downloading web embedded client config
+[youtube] 7Cq175HNWu0: Downloading player 8c3fda2d-main
+[youtube] 7Cq175HNWu0: Downloading web embedded player API JSON
+[youtube] 7Cq175HNWu0: Downloading tv downgraded player API JSON
+WARNING: [youtube] 7Cq175HNWu0: Signature solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+WARNING: [youtube] 7Cq175HNWu0: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
+ERROR: [youtube] 7Cq175HNWu0: The page needs to be reloaded.
+[youtube] Extracting URL: https://www.youtube.com/watch?v=RfEJE5aNSCc
+[youtube] RfEJE5aNSCc: Downloading webpage
