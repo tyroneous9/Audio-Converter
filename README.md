@@ -13,20 +13,24 @@ download YouTube links as audio files.
 Set up a virtual environment:
 
 ```bash
+# Linux/macOS
 python3 -m venv venv
 venv/bin/pip install -r requirements.txt
+
+# Windows
+python -m venv venv
+venv\Scripts\pip install -r requirements.txt
 ```
-
-On Windows, use `venv\Scripts\pip.exe` instead of `venv/bin/pip`.
-
 
 ## Running
 
 ```bash
+# Linux/macOS
 venv/bin/python app.py
-```
 
-(`venv\Scripts\python.exe app.py` on Windows)
+# Windows
+venv\Scripts\python app.py
+```
 
 Calling the interpreter directly by path picks up the venv's installed
 packages automatically — there's no need to `source venv/bin/activate` first.
